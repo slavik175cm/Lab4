@@ -1,0 +1,18 @@
+{
+   "archiveOptions" : {
+	"enableArchivation" : true,
+   	"archiveDirectoryPath" : "d:\\C#_2sem\\TargetDirectory\\Archive",
+	"compressionLevel" : 1
+   },
+   "encodingOptions": {
+	"enableEncoding" : true
+   },
+   "watcherOptions" : {
+	"sourseDirectoryPath" : "d:\\C#_2sem\\SourceDirectory",
+	"targetDirectoryPath" : "d:\\C#_2sem\\TargetDirectory"
+   },
+   "loggerOptions : {
+	"enableLogging" : true,
+	"logFilePath" : "d:\\C#_2sem\\log.txt"
+   }
+}

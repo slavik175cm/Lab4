@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataBaseOptions>
+  <DataSource>.\SQLEXPRESS</DataSource>
+  <InitialCatalog>AdventureWorks2017</InitialCatalog>
+  <IntegratedSecurity>True</IntegratedSecurity>
+  <User>null</User>
+  <Password>null</Password>
+</DataBaseOptions>
+<SendingOptions>
+  <BatchSize>40</BatchSize>
+  <DestinationDirectory>d:\\C#_2sem\\SourceDirectory</DestinationDirectory>
+</SendingOptions>
