@@ -1,4 +1,4 @@
-# Lab4
+# FTP-Windows service which watches changes in specific folder and make records in Database
 ## DataAccessLayer(dll)
 - Работатет в общем случае с базой данных 
 - Передаются такие параметры как строка подключения, имя хранимой процедуры, некоторые параметры выборки
