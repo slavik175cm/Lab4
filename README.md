@@ -14,7 +14,7 @@
 - XMLGeneratorService - для генерации XML файла на основе переданной коллекции моделей
 - Подключена к DataManager
 
-## ConfigManager(dll) (сделана в лаб3)
+## ConfigManager(dll)
 - Нужена для получения настроек из кофигурационных файлов(заполняет переданную модель)
 - (подробно описана в readme https://github.com/slavik175cm/Watcher)
 - Подключена к DataManager и FileManager
@@ -25,5 +25,5 @@
 - Каждый Batch конвертится в XML и формирует файл (SupportServices)
 - Затем перемещает этот файл в указанную дерикторию(для FileManager'а) (IFileTransferService)
 
-## FileManager(сделан в лаб2)
+## FileManager
 Вин служба мониторящая файлы и папки(!). 
